@@ -1,8 +1,8 @@
 ### Hi, I'm Tusdang 👋
 
-🇻🇳 Vietnam &nbsp; · &nbsp; 🔬 ML Researcher &nbsp; · &nbsp; 💻 Full-stack developer &nbsp; · &nbsp; 🎨 Vibe-coder
+🇻🇳 Vietnam &nbsp; | &nbsp; 🔬 ML Researcher &nbsp; | &nbsp; 💻 Full-stack developer &nbsp; | &nbsp; 🎨 Vibe-coder
 
-I enjoy building tools that solve real problems — from AI-powered platforms to desktop apps and social products. Currently shipping multiple projects across ML, game dev tooling, and consumer apps.
+I enjoy building tools that solve real problems - from AI-powered platforms to desktop apps and social products. Currently shipping multiple projects across ML, game dev tooling, and consumer apps.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-dang-885b48374/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/MrAshDang)
