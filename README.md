@@ -7,20 +7,14 @@ I enjoy building tools that solve real problems — from AI-powered platforms to
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-dang-885b48374/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/MrAshDang)
 
----
-
 #### Current Projects
 
-| Project | Description |
-|---------|-------------|
-| [RoLearn.dev](https://rolearn.dev) | Decision-maker platform for Roblox game developers |
-| [Lobbi.tech](https://lobbi.tech) | Collaborative workspace for game developers |
-| [TCode](https://github.com/Tusdang-ctw/TCode) | Run multiple terminals simultaneously on Windows — built with Tauri, React, Node.js |
-| Tyber | Modern AI malware research platform |
-| Turri | Social media app for couples & friends |
-| Twe Voice Assistant | Control your OS like OpenClaw and CoWork |
-
----
+- **[RoLearn.dev](https://rolearn.dev)** — Decision-maker platform for Roblox game developers
+- **[Lobbi.tech](https://lobbi.tech)** — Collaborative workspace for game developers
+- **[TCode](https://github.com/Tusdang-ctw/TCode)** — Run multiple terminals simultaneously on Windows. Built with Tauri, React, Node.js
+- **Tyber** — Modern AI malware research platform
+- **Turri** — Social media app for couples & friends
+- **Twe Voice Assistant** — Control your OS like OpenClaw and CoWork
 
 #### Tech Stack
 
