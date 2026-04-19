@@ -23,7 +23,7 @@ I enjoy building tools that solve real problems - from AI-powered platforms to d
 - 💎 **[RoLearn.dev](https://rolearn.dev)**: Decision-maker platform for Roblox game developers
 - 🤝 **[Lobbi.tech](https://lobbi.tech)**: Collaborative workspace for game developers
 - 🖥️ **[TCode](https://github.com/Tusdang-ctw/TCode)**: Run multiple terminals simultaneously on Windows. Built with Tauri, React, Node.js
-- 👾 **[Tyber](https://github.com/Tusdang-ctw/TLoad)**: Modern AI malware research platform
-- 📩 **TLoad**: Download social media videos for free (YT, Tiktok, Instagram)
+- 👾 **Tyber**: Modern AI malware research platform
+- 📩 **[TLoad](https://github.com/Tusdang-ctw/TLoad)**: Download social media videos for free (YT, Tiktok, Instagram)
 - 😻 **Turri**: Social media app for couples & friends
 - 🩻 **Twe Voice Assistant**: Control your OS like OpenClaw and CoWork
