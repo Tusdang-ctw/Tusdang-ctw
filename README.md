@@ -26,5 +26,5 @@ I enjoy building tools that solve real problems - from AI-powered platforms to d
 - 👾 **Tyber**: Modern AI malware research platform
 - 📩 **[TLoad](https://github.com/Tusdang-ctw/TLoad)**: Download social media videos for free (YT, Tiktok, Instagram)
 - 😻 **Turri**: Social media app for couples & friends
-- 📧 **[UniT]:(https://github.com/Tusdang-ctw/UniT)**: Daily Schedule with Animated Background
+- 📧 **[UniT](https://github.com/Tusdang-ctw/UniT)**: Daily Schedule with Animated Background
 - 🩻 **Twe Voice Assistant**: Control your OS like OpenClaw and CoWork
